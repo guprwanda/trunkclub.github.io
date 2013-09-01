@@ -1,5 +1,31 @@
+branches:
+  only:
+  - source
 language: ruby
 rvm:
-  - 2.0.0
-  - 1.9.3
-script: bundle exec rake install; bundle exec rake generate
+- 1.9.3
+before_script:
+- export REPO_URL="https://$GH_TOKEN@github.com/$GH_REPO.git"
+- rake setup_github_pages[$REPO_URL]
+script:
+- rake generate
+after_script:
+- rake deploy
+env:
+  # Generate OAuth tokens for travis-ci using bash:
+  # $ gem install travis
+  # $ curl -u 'trunkclub' -d '{"scopes":["public_repo"], "note":"Travis access"}' https://api.github.com/authorizations
+  # $ travis encrypt --add GH_TOKEN=your_token
+  # Secure token should be automatically placed under "global:" with use of --add flag
+  global:
+  - GH_REPO="trunkclub/trunkclub.github.io"
+  # e.g. secure: "64d13ed46fc0e4a219d37f3cfd94b009c0b038ff"
+prose: 
+  rooturl: "source" 
+  metadata: 
+    "source/_posts": | 
+      layout: post 
+      title: "Title" 
+      comments: true 
+      categories:  
+      published: true

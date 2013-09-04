@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ! 'Trunk Club Apprenticeship: week 11'
+author: Jean Bahnik
 tags:
 - apprenticeship
 ---

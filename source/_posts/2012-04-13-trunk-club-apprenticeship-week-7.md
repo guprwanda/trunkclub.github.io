@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ! 'Trunk Club Apprenticeship: week 7'
+author: Jean Bahnik
 tags: 
 ---
 This week I have been pairing a lot more. I think I paired with almost every back-end developer that we have. Naturally it reminded me of the 12 weeks of Code Academy. Overall it was very good and I certainly learned a lot. It also helped that everyone I paired with took the time to answer any questions that I had, no matter how trivial or complex.

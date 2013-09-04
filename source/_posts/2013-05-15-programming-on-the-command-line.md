@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Programming on the Command Line
-author: Joel Ash (@joelash)
+author: Joel Ash
 tags:
 - cli
 - programming

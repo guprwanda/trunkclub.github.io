@@ -1,13 +1,14 @@
 ---
 layout: post
 title: When Life Gives You Racks....
+author: author: Joel Ash
 tags: 
 ---
 build standing pairing stations.
 
 Who am I?
 
-Let me start this post by introducing myself. I’ve been a Software Engineer at Trunk Club for a little over six months and previous to that I was a Senior Software Engineer at DRW Trading. In addition to these full-time jobs I’ve also been involved in a few side projects.
+Let me start this post by introducing myself. I’ve been a Software Engineer at [Trunk Club](http://trunkclub.com/) for a little over six months and previous to that I was a Senior Software Engineer at [DRW Trading](http://drw.com/). In addition to these full-time jobs I’ve also been involved in a few side projects.
 
 I attended the University of Michigan where I received my degree in computer science. After I graduated there in the winter of 2007 I moved to Chicago to do what any other recent college graduate does, start my career, which is when I started at DRW.
 
@@ -33,7 +34,7 @@ We took a page out of MacGyver’s play book and built something from what we ha
 
 The standing pairing station is in such high demand, that we’ve constructed a second. After the second version, we’ve begun discussing possible refactorings to our solution, which include buying a version of the aforementioned desks top solutions.
 
-Do you or your team stand on a regular basis? What solution do you use? Want to come see our bakers rack? Drop by TCHQ and check it out while we have beer. Let me know @joelash
+Do you or your team stand on a regular basis? What solution do you use? Want to come see our bakers rack? Drop by TCHQ and check it out while we have beer. Let me know [@joelash](https://twitter.com/joelash)
 
 Final stading desk
 
@@ -43,7 +44,6 @@ Some links on standing
 
 Here are some of the links I’ve used to validate my personal experiences. I’m more interested in your experiences as opposed to research. Let me know what you think.
 
-http://www.patrickjohnmccrann.com/blog/self-care/sitting-vs-standing-at-work-why-you-need-to-raise-your-working-game
-http://37signals.com/svn/posts/1001-standing-versus-sitting
-[http://ergonomics.ucla.edu/homepage/back-safety/standing-vs-sitting-at-work.html](http://ergonomics.ucla.edu/homepage/back-safety/standing-vs-sitting-at-work.
-J
+- http://www.patrickjohnmccrann.com/blog/self-care/sitting-vs-standing-at-work-why-you-need-to-raise-your-working-game
+- http://37signals.com/svn/posts/1001-standing-versus-sitting
+- http://ergonomics.ucla.edu/homepage/back-safety/standing-vs-sitting-at-work.html

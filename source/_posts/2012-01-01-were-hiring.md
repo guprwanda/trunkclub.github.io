@@ -1,6 +1,7 @@
 ---
 layout: post
 title: We're hiring!
+author: Neil Kamireddy
 tags: 
 ---
 Trunk Club is growing and we’re looking to add talented, passionate, and hungry technologists to the team in Chicago.

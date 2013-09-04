@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When Life Gives You Racks....
-author: author: Joel Ash
+author: Joel Ash
 tags: 
 ---
 build standing pairing stations.

@@ -1,3 +1,24 @@
+trunkclub.github.io
+===================
+Trunk Club Engineering blog, hosted on GitHub Pages.
+
+## Getting started
+Just set it and forget it.
+
+1. Clone the repo
+2. Check ruby version with `ruby --version` and, if necessary, switch to ruby 1.9.3 (e.g. `rvm use 1.9.3`)
+3. Install dependencies with `gem install bundler` followed by `bundle install`
+4. Run `git checkout -b source origin/source` to access the blog source code
+
+# Deployments
+To deploy changes to source, run `rake generate` followed by `rake deploy`. Octopress should take care of the rest.
+
+## Tips for creating new posts
+
+- See [Octopress blogging basics](http://octopress.org/docs/blogging/) to get aquainted with the rake tasks available or just pull up the `Rakefile` and start reading.
+- We're using Redcarpet, so use github flavored markdown ([cheet sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
+
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.

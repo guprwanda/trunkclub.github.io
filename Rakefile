@@ -258,11 +258,10 @@ multitask :push do
   cd "#{deploy_dir}" do
     system "git add -A"
     puts "\n## Commiting: Site updated at #{Time.now.utc}"
-    # message = "Site updated at #{Time.now.utc}"
-    message = "Site updated at #{Time.now.utc}\n\n[ci skip]"
+    message = "Site updated at #{Time.now.utc} [ci skip]"
     system "git commit -m \"#{message}\""
     puts "\n## Pushing generated #{deploy_dir} website"
-    # system "git push origin #{deploy_branch} --force"
+    # system "git push origin #{deploy_branch}"
     system "git push origin #{deploy_branch} --force --quiet" # hide github token
     puts "\n## Github Pages deploy complete"
   end
@@ -315,7 +314,6 @@ task :setup_github_pages, :repo do |t, args|
   end
   protocol = (repo_url.match(/(^git)@/).nil?) ? 'https' : 'git'
   if protocol == 'git'
-    user = repo_url.match(/:([^\/]+)/)[1]
     user = repo_url.match(/[\/:]([^\/]+)\/[^\/]+$/)[1]
   else
     user = repo_url.match(/github\.com\/([^\/]+)/)[1]
@@ -352,8 +350,7 @@ task :setup_github_pages, :repo do |t, args|
     system "git init"
     system "echo 'My Octopress Page is coming soon &hellip;' > index.html"
     system "git add ."
-    # system "git commit -m \"Octopress init\""
-    system "git commit -m \"Octopress init\n\n[ci skip]\""
+    system "git commit -m \"Octopress init [ci skip]\""
     system "git branch -m gh-pages" unless branch == 'master'
     system "git remote add origin #{repo_url}"
     rakefile = IO.read(__FILE__)

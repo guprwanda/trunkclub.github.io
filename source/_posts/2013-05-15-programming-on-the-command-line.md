@@ -33,8 +33,8 @@ First we need to remove the parts of the message we don’t need. To do this, I 
 
 Now, I think I would cut that again on ‘”’ to get to my email address, but this leaves a trailing ‘', so I’ll use sed, which is like sub in ruby to remove it:
 
-  $ tail -f production.log | grep ''Publishing message'' | cut -d, -f6 | cut -d''"'' -f4 | sed ''s/\\//''
-      #example.member@example.com
+    $ tail -f production.log | grep ''Publishing message'' | cut -d, -f6 | cut -d''"'' -f4 | sed ''s/\\//''
+        #example.member@example.com
 
 
 And we’re done! Now we can tail the logs and see on our screen the email addresses for members who have had a message published about them in our system. How would you have accomplished this? Similarly or completely different?
@@ -43,7 +43,7 @@ This example may be a bit contrived, however being able to string together a ser
 
 Why is it called Taco Bell ® Programming?
 
-I cannot take this credit for this and I cannot remember where I first heard this term, but searching the internet shows that it seems to come from Ted Dziuba, but his blog post on it is no longer available. What it comes down to is that most of the food Taco Bell’s ® is made of by combining many of the same ingredients differently. When we’re writing this helper scripts on the command line we’re just combining all of these programs that already exist produce a program that fits our need, each time.
+I cannot take this credit for this and I cannot remember where I first heard this term, but searching the internet shows that it seems to come from [Ted Dziuba](http://teddziuba.com/), but his blog post on it is no longer available. What it comes down to is that most of the food Taco Bell’s ® is made of by combining many of the same ingredients differently. When we’re writing this helper scripts on the command line we’re just combining all of these programs that already exist produce a program that fits our need, each time.
 
 Learning how to use these commands
 

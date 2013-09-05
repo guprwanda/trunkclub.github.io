@@ -19,10 +19,12 @@ env:
   # $ gem install travis
   # $ curl -u 'trunkclub' -d '{"scopes":["public_repo"], "note":"Travis access"}' https://api.github.com/authorizations
   # $ travis encrypt --add GH_TOKEN=your_token
-  # Secure token should be automatically placed under "global:" with use of --add flag
+  # global:
+  # - GH_REPO="trunkclub/trunkclub.github.io"
+  # - secure: "Cxa8StZ6z45GfwT1pFUyhYzWlR6qHoRzMwpWVcjeAkOT3ZaR//xZDPidgryY+OpdktP08cb6xb9Fxa7kxnOLuiqn+GSTmQiAA+bj1ylYl/Mvy4gXiyMQywzHW6f9niugNUOvVcbRTzJHA5Mf0KcoipkvypUMkKIXmymuaxGOcSo="
   global:
   - GH_REPO="trunkclub/trunkclub.github.io"
-  # e.g. secure: "64d13ed46fc0e4a219d37f3cfd94b009c0b038ff"
+  - secure: "Cxa8StZ6z45GfwT1pFUyhYzWlR6qHoRzMwpWVcjeAkOT3ZaR//xZDPidgryY+OpdktP08cb6xb9Fxa7kxnOLuiqn+GSTmQiAA+bj1ylYl/Mvy4gXiyMQywzHW6f9niugNUOvVcbRTzJHA5Mf0KcoipkvypUMkKIXmymuaxGOcSo="
 prose: 
   rooturl: "source" 
   metadata: 

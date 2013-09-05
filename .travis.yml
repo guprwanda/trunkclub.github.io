@@ -15,16 +15,10 @@ script:
 after_script:
 - rake deploy
 env:
-  # Generate OAuth tokens for travis-ci using bash:
-  # $ gem install travis
-  # $ curl -u 'trunkclub' -d '{"scopes":["public_repo"], "note":"Travis access"}' https://api.github.com/authorizations
-  # $ travis encrypt --add GH_TOKEN=your_token
-  # global:
-  # - GH_REPO="trunkclub/trunkclub.github.io"
-  # - secure: "Cxa8StZ6z45GfwT1pFUyhYzWlR6qHoRzMwpWVcjeAkOT3ZaR//xZDPidgryY+OpdktP08cb6xb9Fxa7kxnOLuiqn+GSTmQiAA+bj1ylYl/Mvy4gXiyMQywzHW6f9niugNUOvVcbRTzJHA5Mf0KcoipkvypUMkKIXmymuaxGOcSo="
   global:
   - GH_REPO="trunkclub/trunkclub.github.io"
-  - secure: "Cxa8StZ6z45GfwT1pFUyhYzWlR6qHoRzMwpWVcjeAkOT3ZaR//xZDPidgryY+OpdktP08cb6xb9Fxa7kxnOLuiqn+GSTmQiAA+bj1ylYl/Mvy4gXiyMQywzHW6f9niugNUOvVcbRTzJHA5Mf0KcoipkvypUMkKIXmymuaxGOcSo="
+  - secure: Cxa8StZ6z45GfwT1pFUyhYzWlR6qHoRzMwpWVcjeAkOT3ZaR//xZDPidgryY+OpdktP08cb6xb9Fxa7kxnOLuiqn+GSTmQiAA+bj1ylYl/Mvy4gXiyMQywzHW6f9niugNUOvVcbRTzJHA5Mf0KcoipkvypUMkKIXmymuaxGOcSo=
+#prose.io settings 
 prose: 
   rooturl: "source" 
   metadata: 
@@ -33,4 +27,8 @@ prose:
       title: "Title" 
       comments: true 
       categories:  
-      published: true
+      published: true 
+notifications:
+  campfire:
+    rooms:
+      secure: cWdRIoG8pQAXGcS8xNQvHZdsBy1N1O3ZetuRvlDjlb8PA+cTIOE+gK3S8ehUlUxWv5F+cLstGxVaZnQXdxJgg8gzB6pq2HWbkTn5HlCIXDJs/GmUeN/pwaYcPxYWErKb/GDJrPTlZxqsIu9fITiiMe8VNKs5GfK3fJWTz1U53dM=

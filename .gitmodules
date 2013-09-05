@@ -1,3 +1,6 @@
 [submodule ".themes/blanket"]
 	path = .themes/blanket
 	url = git://github.com/octothemes/blanket.git
+[submodule ".themes/light"]
+	path = .themes/light
+	url = git://github.com/octothemes/classic-light.git

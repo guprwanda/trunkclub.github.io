@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Movember + “do the tiger!” (@neilkam)
+title: "Movember + “do the tiger!” (@neilkam)"
 author: Neil Kamireddy
-tags: 
+tags: null
+published: true
 ---
+
+What it looks like

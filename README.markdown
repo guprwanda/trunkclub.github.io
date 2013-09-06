@@ -6,7 +6,7 @@ Trunk Club Engineering blog, hosted on GitHub Pages.
 
 # Getting started
 
-1. Check out the tech blog [intro deck on slid.es](slid.es/jhabdas/trunkclub-techblog).
+1. Check out the tech blog [intro deck on slid.es](http://slid.es/jhabdas/trunkclub-techblog).
 2. Use [Prose.io](http://prose.io) or GitHub to author content online.
 3. Follow the instructions below if you'd like to wrench on the app or deploy manually.
 

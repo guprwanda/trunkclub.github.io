@@ -6,4 +6,3 @@ tags: null
 published: true
 ---
 
-What it looks like

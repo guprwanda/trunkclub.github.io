@@ -14,6 +14,8 @@ I attended the University of Michigan where I received my degree in computer sci
 
 Since then I’ve had the opportunity to learn a variety of different things from a variety of people. These lessons range anywhere from dark text-editor themes being easier on the eyes to using message queuing systems to create a distributed app eco-system. Another such lesson is the benefits of being able to stand while working.
 
+<!-- more -->
+
 Getting things done
 
 I’m not going to talk too deeply about the pros and cons of standing and sitting while at work. You can find various articles and blog posts about them (I’ve listed a few at the end). In short, you burn more calories, your back and lower body will hurt less (after getting used to standing more), and even increases in your productivity. And personally, I will tell you that I had the opportunity to experience standing all day, and it’s something that everyone should try.

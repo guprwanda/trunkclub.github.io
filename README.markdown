@@ -16,6 +16,7 @@ Trunk Club Engineering blog, hosted on GitHub Pages.
 2. Check ruby version with `ruby --version` and, if necessary, switch to ruby 1.9.3 (e.g. `rvm use 1.9.3`)
 3. Install dependencies with `gem install bundler` followed by `bundle install`
 4. Run `git checkout -b source origin/source` to access the blog source code
+5. Add "[ci skip]" to commit message to prevent Travis-CI from triggering a build for any given commit
 
 Check out the list of [3rd party plug-ins](https://github.com/imathis/octopress/wiki/3rd-party-plugins) for ideas.
 

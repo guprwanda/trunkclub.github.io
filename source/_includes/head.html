@@ -6,9 +6,6 @@
   <meta charset="utf-8">
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
   <meta name="author" content="{{ site.author }}">
-  
-  <!-- Remove me once verified -->
-  <meta name="google-site-verification" content="90YhJu780y-a--XkYCiJqkhHhVOPxztDMkgKSmaVESc" />
 
   {% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
   <meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">

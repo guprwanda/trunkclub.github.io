@@ -7,16 +7,17 @@ Trunk Club Engineering blog, hosted on GitHub Pages.
 # Getting started
 
 1. Check out the tech blog [intro deck on slid.es](http://slid.es/jhabdas/trunkclub-techblog).
-2. Use [Prose.io](http://prose.io) or GitHub to author content online.
-3. Follow the instructions below if you'd like to wrench on the app or deploy manually.
+2. Use [Prose.io](http://prose.io) or GitHub to author content online. Post markdown source resides in the `source/_posts` directory in the source branch.
+3. Follow the [instructions](#hacking) below if you'd like to wrench on the app or deploy manually.
 
-# Hacking on the framework
+# <a id="hacking"></a>Hacking on the framework
 
 1. Clone the repo
 2. Check ruby version with `ruby --version` and, if necessary, switch to ruby 1.9.3 (e.g. `rvm use 1.9.3`)
 3. Install dependencies with `gem install bundler` followed by `bundle install`
 4. Run `git checkout -b source origin/source` to access the blog source code
-5. Add "[ci skip]" to commit message to prevent Travis-CI from triggering a build for any given commit
+5. Add "[ci skip]" to commit message to prevent Travis-CI from triggering a build for commits to source branch
+6. Use the `preview`, `isolate` and `integrate` rake tasks to speed up post authorting. For a list of available rake commands and what they do, simply run `rake list -T`.
 
 Check out the list of [3rd party plug-ins](https://github.com/imathis/octopress/wiki/3rd-party-plugins) for ideas.
 

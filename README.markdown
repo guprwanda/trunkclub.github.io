@@ -1,6 +1,6 @@
 trunkclub.github.io
 ===================
-Trunk Club Engineering blog, hosted on GitHub Pages.
+Trunk Club Engineering blog, hosted on GitHub Pages with [travis-ci](travis-ci.org) for Continuous Integration.
 
 [![Build Status](https://travis-ci.org/trunkclub/trunkclub.github.io.png?branch=source)](https://travis-ci.org/trunkclub/trunkclub.github.io)
 

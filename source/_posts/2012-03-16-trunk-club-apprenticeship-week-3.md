@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Trunk Club Apprenticeship: week 3'
 author: Jean Bahnik
-tags:
+categories:
 - apprenticeship
 ---
 I just got a new responsibility that will help learn about our code base and our business faster: doing triage for the tech team’s ticket system. The requests are only internal and tech-related. Some of them are hardware issues but a lot of them are bugs or UI and data issues. This reminds me of my first internship in the US where I had to man the phones even though my English was not great: you have to learn very quickly… I tried to resolved as many tickets as I can and pass the rest to other people on the tech team.

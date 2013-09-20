@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Trunk Club Apprenticeship: week 8'
 author: Jean Bahnik
-tags:
+categories:
 - apprenticeship
 ---
 After listening to Corey Ehmke’s presentaion on MongoDB last week I decided to try and implement Mongo for data snapshots. I gotta say I had a lot of fun pairing with Corey and realizing how awesome Mongo is. Now thanks to this exercise we’re saving snapshots of data to look at historicals. Sweet!

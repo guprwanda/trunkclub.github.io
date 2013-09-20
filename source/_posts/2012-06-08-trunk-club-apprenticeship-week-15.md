@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Trunk Club Apprenticeship: week 15'
 author: Jean Bahnik
-tags:
+categories:
 - apprenticeship
 ---
 This week we had our second hack day: different teams, different projects, same goal to build something in a day that could benefit the business. This time we had several themes to pick from, including Salesforce integration, social graph and inventory management. Our team built a notification system for stylists to be notified when an item that is not in stock becomes available. We also built a neat tool to search items in our inventory while building a trunk. The notification feature will soon make its way to production, which would make it the first feature coming out of hack day to make its way to our main application. The other team built an iPad app that lets you vote for your most stylish friend after pulling them from Facebook, a fun game that could help us with lead sourcing. The rest of the company will get to pick the winner next week during our demo time.

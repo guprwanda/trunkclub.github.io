@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Trunk Club Apprenticeship: week 11'
 author: Jean Bahnik
-tags:
+categories:
 - apprenticeship
 ---
 Braintree’s CFO and two of their engineers came over on Wednesday for our team lunch to talk about how we use their service and what they have in their product pipeline. It was good to hear about their technology, their stack and their practices. Great company, great guys.

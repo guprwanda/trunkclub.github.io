@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Trunk Club Apprenticeship: week 5'
 author: Jean Bahnik
-tags:
+categories:
 - apprenticeship
 ---
 We finalized the list of technologies and concepts that an apprentice should to know or know about by the end of the apprenticeship, and I figured I would share that today:

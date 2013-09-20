@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Trunk Club Apprenticeship: week 13'
 author: Jean Bahnik
-tags:
+categories:
 - apprenticeship
 ---
 What a great week: I just built an entire Rails app from scratch for Trunk Club. GeckoBoard was not giving us enough flexibility and the charts were too big for the largest widget size allowed. So I more or less built a custom version of GeckoBoards for Trunk Club.

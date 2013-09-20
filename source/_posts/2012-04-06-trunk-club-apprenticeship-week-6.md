@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Trunk Club Apprenticeship: week 6'
 author: Jean Bahnik
-tags:
+categories:
 - apprenticeship
 ---
 This week we released the GeckoBoards that I’ve been working on for the last couple of weeks. With these, the company has access to key metrics about the health of the business. Before that, that data was either not available or required finance to dig into the database.

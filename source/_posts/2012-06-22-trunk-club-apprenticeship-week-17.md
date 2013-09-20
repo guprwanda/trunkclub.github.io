@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Trunk Club Apprenticeship: week 17'
 author: Jean Bahnik
-tags:
+categories:
 - apprenticeship
 ---
 This week I started and finished the Kissmetrics project that was assigned to me. Pairing with Mike on Monday helped get me started and after that it was just a matter of going through the stories that were assigned to me one by one. We’re also improving our testing methodology and testing earlier in the week, testing with the product manager both locally as soon as possible and on staging after the weekly code freeze. Of course some things were not working while testing. Sometimes the logic hadn’t been thought through, and sometimes my environment wasn’t set up properly for testing. And throughout the week we were getting feedback from end-users that meant changes in the specifications. But I am happy that even with all these bumps on the road I managed to deliver the finished project on time for the release.

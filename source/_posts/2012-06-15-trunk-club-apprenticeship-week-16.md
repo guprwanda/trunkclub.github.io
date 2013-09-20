@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Trunk Club Apprenticeship: week 16'
 author: Jean Bahnik
-tags:
+categories:
 - apprenticeship
 ---
 I started working on the Kissmetrics and Leviathan integration this week. It’s the first time that I have worked with our www application. Browsing the code and finding what I’m looking for takes a little bit of help but it’s definitely much less cryptic than I thought. Familiarity with our business and our code base on the API side is definitely helping.

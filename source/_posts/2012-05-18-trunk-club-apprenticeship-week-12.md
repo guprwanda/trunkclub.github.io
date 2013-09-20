@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Trunk Club Apprenticeship: week 12'
 author: Jean Bahnik
-tags:
+categories:
 - apprenticeship
 ---
 This week I built my first Sinatra app! It was refreshing to work with such a simple and lightweight framework. I also got my own Heroku instance to deploy the app, which will allow me to circumvent our usual weekly release cycle in favor of daily code releases while we build up the application.

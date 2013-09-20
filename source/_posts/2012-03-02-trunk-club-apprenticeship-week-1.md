@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Trunk Club Apprenticeship: week 1'
 author: Jean Bahnik
-tags:
+categories:
 - apprenticeship
 ---
 Less than six months after deciding to change careers from marketing to programming and just a couple of months after finishing Code Academy, I landed at Trunk Club as their first apprentice!

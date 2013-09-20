@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Trunk Club Apprenticeship: week 10'
 author: Jean Bahnik
-tags:
+categories:
 - apprenticeship
 ---
 There was an interesting presentation at [Geekfest](https://twitter.com/#!/geekfest) today about being a better apprentice. Isaac Sanders, a high school senior interning at Groupon shared stories of successes, and lessons learned from his failures. He has spent the last year of his high school on an “Apprenticeship Tour,” working at EdgeCase and 2Checkout.com in Columbus, OH and at LeanDog in Cleveland, OH. He used a lot of chapters from Dave Hoover’s book on [apprenticeships](http://amzn.com/0596518382) as discussion topics, elaborating on them based on his own experience. He is definitely a strong advocate of apprenticeships, with an interesting experience.

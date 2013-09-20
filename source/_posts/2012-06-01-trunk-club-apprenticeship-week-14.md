@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Trunk Club Apprenticeship: week 14'
 author: Jean Bahnik
-tags:
+categories:
 - apprenticeship
 ---
 This week was a little slower. It had to be after the long and intense previous week. I had put in a lot of hours to get Trunkboards released. It was great to get that done but I needed a slower week. I got to spend a little less time coding and a little more time reading, blogging and learning.

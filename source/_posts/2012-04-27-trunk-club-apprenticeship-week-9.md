@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Trunk Club Apprenticeship: week 9'
 author: Jean Bahnik
-tags:
+categories:
 - apprenticeship
 ---
 This week I completed my first major project, a sales report for management. It will evolve over the next few weeks but it’s nice to get version one working. I spent the whole week on it, banging my head against a wall frequently. And then on Friday at 5:30 pm it finally worked. I think there’s no better time for a project to be completed. It feels like a nice, challenging, full week and it ends right on time to enjoy the weekend.

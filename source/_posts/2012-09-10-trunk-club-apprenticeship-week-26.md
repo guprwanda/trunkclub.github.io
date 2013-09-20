@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Trunk Club Apprenticeship: week 26'
 author: Jean Bahnik
-tags: 
+categories:
 - apprenticeship
 ---
 So … it’s been eight weeks since my last blog post. The last blog post I wrote said: “Next week: Review, working in a smaller team, Kissmetrics and Trunkboards version 2.” The review went very well, the second part of my apprenticeship was eye-opening and I definitely felt like I turned a corner. Concepts and patterns were easier to understand, I felt more useful when pairing, and I was able to get more done.

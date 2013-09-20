@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Trunk Club Apprenticeship: week 18'
 author: Jean Bahnik
-tags:
+categories:
 - apprenticeship
 ---
 Now that felt great: I worked on a project that was very similar to last week’s Kissmetrics project, except this time it took me two days to finish it instead of five! I’m now completing projects regularly and I have code to commit to the release every week. My contribution level is definitely increasing on a weekly basis.

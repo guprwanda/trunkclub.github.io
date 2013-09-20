@@ -2,7 +2,7 @@
 layout: post
 title: My Trunk Club 101 week
 author: Jean Bahnik
-tags: 
+categories:
 - training
 ---
 The tech team came up with a list of tasks that every member of the team should complete in order to better understand the business. Building tools for other functions of the company helps us to understand what those departments do and how we can help them.

@@ -2,7 +2,7 @@
 layout: post
 title: ! 'Trunk Club Apprenticeship: week 2'
 author: Jean Bahnik
-tags:
+categories:
 - apprenticeship
 ---
 Second week at Trunk Club and I feel like I’m a bit in over my head. In a good way though…

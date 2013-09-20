@@ -1,0 +1,1 @@
+Draft posts are posts without a date

@@ -129,6 +129,7 @@ prose:
           label: "Author"
           value: ""
           placeholder: "Trunk Botterson"
+          type: "text"
       - name: "categories"
         field:
           element: "multiselect"

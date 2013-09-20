@@ -134,7 +134,7 @@ prose:
         field:
           element: "multiselect"
           label: "Post Category"
-          placeholder: "Create or choose
+          placeholder: "Create or choose"
           alterable: true
       - name: "comments"
         field:

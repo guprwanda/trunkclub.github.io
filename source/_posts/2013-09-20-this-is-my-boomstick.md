@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: "This is my boomstick!"
 comments: false
 author: Josh Habdas

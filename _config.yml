@@ -103,3 +103,14 @@ facebook_like: false
 
 # App Store
 app_store_id: 635441999
+
+# prose.io settings
+prose:
+  rooturl: "source"
+  metadata:
+    "source/_posts": |
+    layout: post
+    title: "Title"
+    comments: true
+    categories:
+    published: true

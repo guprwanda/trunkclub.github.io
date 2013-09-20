@@ -149,5 +149,5 @@ prose:
       - name: "published"
         field:
           element: "checkbox"
-          label: "Comments"
-          value: "false"
+          label: "Published"
+          value: "true"

@@ -1,3 +1,10 @@
+---
+layout: post
+title: Baking Cookies
+author: Mike Cruz
+comments: false
+categories:
+---
 ## Day 1
 
 So I found this game called Cookie Clicker one day. What a great idea. You click a cookie to get more cookies. You can use these new cookies to buy things that help you make more cookies and make them faster. When you buy these new things to make cookies faster, you get access to more things that you can also buy to boost cookie production.

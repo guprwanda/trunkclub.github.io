@@ -129,10 +129,6 @@ prose:
           label: "Author"
           value: ""
           placeholder: "Trunk Botterson"
-      - name: "date"
-        field:
-          element: "hidden"
-          value: "CURRENT_DATETIME" # https://github.com/prose/prose/issues/277
       - name: "categories"
         field:
           element: "multiselect"

@@ -107,7 +107,7 @@ app_store_id: 635441999
 # prose.io settings
 # https://github.com/prose/prose/wiki/Prose-Configuration
 prose:
-  rooturl: 'source'
+  rooturl: 'source/_posts'
   siteurl: 'http://techblog.trunkclub.com'
   media: 'assets'
   metadata:

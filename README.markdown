@@ -30,7 +30,7 @@ Check out the list of [3rd party plug-ins](https://github.com/imathis/octopress/
 ## Tips for creating new posts
 
 - See [Octopress blogging basics](http://octopress.org/docs/blogging/) to get aquainted with the rake tasks available or just pull up the `Rakefile` and start reading.
-- We're using Redcarpet, so use github flavored markdown ([cheet sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
+- Avoid [stop words](http://www.textfixer.com/resources/common-english-words.txt) in the post title.
 
 
 ## What is Octopress?

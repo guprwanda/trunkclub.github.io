@@ -1,16 +1,16 @@
 ---
 layout: post
-published: false
+published: true
 title: Moving from Tumblr to Octopress
 comments: true
 author: Josh Habdas
-"": "travis-ci"
 tags: 
   - octopress
   - jekyll
   - blogging
   - tumblr
   - prose.io
+  - travis-ci
 ---
 
 At Trunk Club, we love technology. It's at the core of our business and helps enable us to provide an amazing user experiences both internally and externally. So when asked recently to help provide opinion on our Tech Blog, I was both flattered--until I saw our Tech Blog was hosted on Tumblr.

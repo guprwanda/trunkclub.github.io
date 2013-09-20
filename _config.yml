@@ -126,13 +126,18 @@ prose:
       - name: "author"
         field:
           element: "text"
+          label: "Author"
           value: ""
           placeholder: "Trunk Botterson"
+      - name: "date"
+        field:
+          element: "hidden"
+          value: "CURRENT_DATETIME" # https://github.com/prose/prose/issues/277
       - name: "categories"
         field:
           element: "multiselect"
           label: "Post Category"
-          placeholder: "Create or choose a category"
+          placeholder: "Create or choose
           alterable: true
       - name: "comments"
         field:
@@ -145,3 +150,8 @@ prose:
           label: "Add Tags"
           placeholder: "Choose Tags"
           alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Comments"
+          value: "false"

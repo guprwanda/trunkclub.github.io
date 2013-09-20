@@ -7,7 +7,7 @@ Trunk Club Engineering blog, hosted on GitHub Pages with [travis-ci](travis-ci.o
 # Getting started
 
 1. Check out the tech blog [intro deck on slid.es](http://slid.es/jhabdas/trunkclub-techblog).
-2. Use [Prose.io](http://prose.io) or GitHub to author content online. Post markdown source resides in the `source/_posts` directory in the source branch.
+2. Use [Prose.io](http://prose.io) to author content online. Drag-and-drop images into posts, and author on mobile devices with ease.
 3. Follow the [instructions](#hacking) below if you'd like to wrench on the app or deploy manually.
 
 # <a id="hacking"></a>Hacking on the framework
@@ -25,6 +25,7 @@ Check out the list of [3rd party plug-ins](https://github.com/imathis/octopress/
 - Occur automatically via [Travis-CI](https://travis-ci.org/trunkclub/trunkclub.github.io) anytime the source branch changes.
 - Can be performed manually by runing `rake generate` followed by `rake deploy` from source after cloning, and once the `rake setup_github_pages` task has been run.
 - Add `[ci skip]` to commit messages to prevent Travis-CI from triggering a build for commits to source branch
+- Check build status with Trunk Botterson (Hubot) by typing into Campfire: `/recall techblog build status`
 
 ## Tips for creating new posts
 

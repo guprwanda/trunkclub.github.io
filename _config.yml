@@ -110,7 +110,7 @@ app_store_id: 635441999
 prose:
   rooturl: 'source/_posts'
   siteurl: 'http://techblog.trunkclub.com'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  # relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'assets'
   metadata:
     _posts:

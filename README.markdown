@@ -7,7 +7,7 @@ Trunk Club Engineering blog, hosted on GitHub Pages with [travis-ci](travis-ci.o
 # Getting started
 
 1. Check out the tech blog [intro deck on slid.es](http://slid.es/jhabdas/trunkclub-techblog).
-2. Use [Prose.io](http://prose.io) to author content online. Drag-and-drop images into posts, and author on mobile devices with ease.
+2. Use [Prose.io](http://prose.io/#trunkclub/trunkclub.github.io/tree/source) to author content online. Drag-and-drop images into posts, and author on mobile devices with ease.
 3. Follow the [instructions](#hacking) below if you'd like to wrench on the app or deploy manually.
 
 # <a id="hacking"></a>Hacking on the framework

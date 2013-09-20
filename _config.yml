@@ -108,7 +108,7 @@ app_store_id: 635441999
 # https://github.com/prose/prose/wiki/Prose-Configuration
 # https://github.com/CMSgov/healthcare.gov/blob/master/_config.yml#L70-L441 (example)
 prose:
-  rooturl: '_posts'
+  rooturl: 'source/_posts'
   siteurl: 'http://techblog.trunkclub.com'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'assets'

@@ -104,13 +104,39 @@ facebook_like: false
 # App Store
 app_store_id: 635441999
 
-#prose.io settings 
-prose: 
-  rooturl: "source" 
-  metadata: 
-    "source/_posts": | 
-      layout: post 
-      title: "Title" 
-      comments: true 
-      categories:  
-      published: true 
+# prose.io settings
+# https://github.com/prose/prose/wiki/Prose-Configuration
+# https://github.com/CMSgov/healthcare.gov/blob/master/_config.yml#L70-L441 (example)
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://techblog.trunkclub.com'
+  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'assets'
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "category"
+        field:
+          element: "multiselect"
+          label: "Post Category"
+          placeholder: "Create or choose a category"
+          alterable: true
+      - name: "comments"
+        field:
+          element: checkbox
+          label: "Comments"
+          value: "false"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          alterable: true

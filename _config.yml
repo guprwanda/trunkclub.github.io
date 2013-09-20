@@ -122,7 +122,13 @@ prose:
           element: "text"
           label: "Title"
           value: ""
-      - name: "category"
+          type: "text"
+      - name: "author"
+        field:
+          element: "text"
+          value: ""
+          placeholder: "Trunk Botterson"
+      - name: "categories"
         field:
           element: "multiselect"
           label: "Post Category"

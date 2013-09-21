@@ -13,7 +13,7 @@ tags:
   - "travis-ci"
 ---
 
-At Trunk Club, we love technology. It's at the core of our business and helps enable us to provide an amazing user experiences both internally and externally. So, when asked recently to help provide opinion on our tech blog, I was excited for opportunity--until I saw the blog was hosted on Tumblr.
+At Trunk Club, we love technology. It's at the core of our business and helps enable us to provide amazing user experiences both internally and externally. So, when asked recently to help provide opinion on our tech blog, I was excited for opportunity--until I saw the blog was hosted on Tumblr.
 
 What's wrong with Tumblr? Nothing, really, except that, as an engineer who's been maintaining a technical blog for the last 5 years, I found it difficult to put words--let alone words with a opinion--on a platform I myself didn't embrace. So before writing these words, I felt compelled to move our tech blog away from Tumblr. Read on to learn about the Octopress migration, and how to set up a wicked quick, CMS-free blog with free hosting and then some.
 

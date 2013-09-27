@@ -29,6 +29,7 @@ Check out the list of [3rd party plug-ins](https://github.com/imathis/octopress/
 
 ## Tips for creating new posts
 
+- If the post frontmatter does not contain `published: true`, the post will not be visible after it's deployed.
 - See [Octopress blogging basics](http://octopress.org/docs/blogging/) to get aquainted with the rake tasks available or just pull up the `Rakefile` and start reading.
 - Avoid [stop words](http://www.textfixer.com/resources/common-english-words.txt) in the post title.
 - Use `<!-- more -->` on longer posts, to add a "Read more..." link. This has both SEO and UX benefits.

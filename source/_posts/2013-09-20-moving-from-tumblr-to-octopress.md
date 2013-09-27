@@ -118,11 +118,10 @@ If migrating from a blog with video content hosted on YouTube, check out the [`j
 
 Once the plug-in is installed, YouTube videos can be embedded using the `youtube` liquid tag, así:
 
-{% raw %}
+
 ```
-{% youtube f7AU2Ozu8eo %}
+{% raw %}{% youtube f7AU2Ozu8eo %}{% endraw %}
 ```
-{% endraw %}
 
 ## So long, Tumblbeasts
 

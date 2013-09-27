@@ -34,7 +34,7 @@ At Trunk Club we write a lot of Ruby and CoffeeScript. So it seemed fitting we s
 
 ## Found just what I was looking for
 
-After some searching I was able to unearth enough material to lead me to reverse engineer what was being done, resulting in a [system diagram](http://www.gliffy.com/go/publish/4845414) so I could use to illustrate how the whole thing worked. Feedback on the whole concept was positive, so I started building. After a bit of trial and error given different approaches, I ended up finding the following excellent article, which boils most of the setup process into a small number of easily reproducable steps:
+After some searching I was able to unearth enough material to lead me to reverse engineer what was being done, resulting in a [system diagram](http://www.gliffy.com/go/publish/4845414) I could use to illustrate how the whole thing worked. Feedback on the whole concept was positive, so I started building. After a bit of trial and error given different approaches, I ended up finding the following excellent article, which boils most of the setup process into a small number of easily reproducable steps:
 
 [Octopress+Prose+Github+Travis CI = Coders' Blog](http://rogerz.github.io/blog/2013/02/21/prose-io-github-travis-ci/)
 

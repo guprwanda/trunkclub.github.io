@@ -15,7 +15,7 @@ tags:
 
 At Trunk Club, we love technology. It's at the core of our business and helps enable us to provide amazing user experiences both internally and externally. So, when asked recently to help provide opinion on our tech blog, I was excited for opportunity--until I saw the blog was hosted on Tumblr.
 
-What's wrong with Tumblr? Nothing, really, except that, as an engineer who's been maintaining a technical blog for the last 5 years, I found it difficult to voice an opinion on a platform I myself didn't fully embrace--to me it was just another CMS, and a bit restrictive to boot. So before writing these words, I felt compelled to move our tech blog away from Tumblr. Read on to learn about the Octopress migration, and how to set up a wicked quick, CMS-free blog with free hosting and then some.
+What's wrong with Tumblr? Nothing, really, except that, as an engineer who's been maintaining a technical blog for the last 5 years, I found it difficult to voice an opinion on a platform I myself didn't fully embrace--to me it was just another CMS, and a bit restrictive at that. So before writing this post, I felt compelled to move our tech blog away from Tumblr. Read on to learn about the Octopress migration, and how to set up a wicked quick, CMS-free blog with free hosting and then some.
 
 <!-- more -->
 
@@ -34,7 +34,7 @@ At Trunk Club we write a lot of Ruby and CoffeeScript. So it seemed fitting we s
 
 ## Found just what I was looking for
 
-After one of those back-of-the-napkin drawings I decided simply to [diagram the system](http://www.gliffy.com/go/publish/4845414) so I could run it by another engineer at TC. Feedback was positive, so I started building. After a bit of trial and error I ended up finding the following, excellent article, which boils most of the setup process into a small number of easily reproducable steps:
+After some searching I was able to unearth enough material to lead me to reverse engineer what was being done, resulting in a [system diagram](http://www.gliffy.com/go/publish/4845414) so I could use to illustrate how the whole thing worked. Feedback on the whole concept was positive, so I started building. After a bit of trial and error given different approaches, I ended up finding the following excellent article, which boils most of the setup process into a small number of easily reproducable steps:
 
 [Octopress+Prose+Github+Travis CI = Coders' Blog](http://rogerz.github.io/blog/2013/02/21/prose-io-github-travis-ci/)
 

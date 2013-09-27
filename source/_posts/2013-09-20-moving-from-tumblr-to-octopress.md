@@ -90,7 +90,7 @@ prose:
           alterable: true
 ```
 
-### Where everybody knows your name
+### Who's that Travis fellow anyway
 
 After modifying the `Rakefile` and `.travis.yml`, and getting the [Travis integration](https://travis-ci.org/trunkclub/trunkclub.github.io) ready, Travis was reporting successful builds although the `rake deploy` task was failing. I did some digging and was able to turn up a [nice fix](https://github.com/travis-ci/travis-cookbooks/issues/159#issuecomment-21675873), copied here for convenience:
 

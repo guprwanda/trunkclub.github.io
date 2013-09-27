@@ -100,7 +100,7 @@ After modifying the `Rakefile` and `.travis.yml`, and getting the [Travis integr
       
 ### Twitter loading, loading, bueller
 
-With a `twitter_user` set using the Octopress Unless patched, users with a vanilla Octopress install will notice tweets won't load, the result of an API [Twitter chose to sunset](https://dev.twitter.com/blog/api-housekeeping). Fixing this is as simple as creating a new aside, like the following file added to `_includes/custom/asides`:
+With a `twitter_user` set using the Octopress Unless patched, users with a vanilla Octopress install will notice *tweets won't load*, the result of an API [Twitter chose to sunset](https://dev.twitter.com/blog/api-housekeeping). Fixing this is as simple as creating a new aside, like the following file added to `_includes/custom/asides`:
 
 ``` html twitter_widget.html
 <section>
@@ -111,6 +111,16 @@ With a `twitter_user` set using the Octopress Unless patched, users with a vanil
 ```
 
 When updating asides, don't forget to adjust the asides configuration in `source/_config.yml`.
+
+### Lazy-loading YouTube videos
+
+If migrating from a blog with video content hosted on YouTube, check out the [`jekyll-youtube-lazyloading`](https://github.com/erossignon/jekyll-youtube-lazyloading/) plug-in, which adds a preview screenshot image to a page and waits for a click event before appending the video `iframe` to the DOM, resulting in a snappier UI and faster download for pages with YouTube-hosted video content.
+
+Once the plug-in is installed, YouTube videos can be embedded using the `youtube` liquid tag, así:
+
+```
+{% youtube f7AU2Ozu8eo %}
+```
 
 ## So long, Tumblbeasts
 

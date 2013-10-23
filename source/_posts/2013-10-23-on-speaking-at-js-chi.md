@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: On speaking at js.chi()
 comments: true
 author: Josh Habdas

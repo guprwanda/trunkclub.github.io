@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: apprenticeship | Trunk Club Engineering]]></title>
+  <link href="http://techblog.trunkclub.com/categories/apprenticeship/atom.xml" rel="self"/>
+  <link href="http://techblog.trunkclub.com/"/>
+  <updated>2013-10-23T22:13:54+00:00</updated>
+  <id>http://techblog.trunkclub.com/</id>
+  <author>
+    <name><![CDATA[Trunk Club]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Trunk Club Apprenticeship: week 26]]></title>
+    <link href="http://techblog.trunkclub.com/trunk-club-apprenticeship-week-26/"/>
+    <updated>2012-09-10T00:00:00+00:00</updated>
+    <id>http://techblog.trunkclub.com/trunk-club-apprenticeship-week-26</id>
+    <content type="html"><![CDATA[<p>So … it’s been eight weeks since my last blog post. The last blog post I wrote said: “Next week: Review, working in a smaller team, Kissmetrics and Trunkboards version 2.” The review went very well, the second part of my apprenticeship was eye-opening and I definitely felt like I turned a corner. Concepts and patterns were easier to understand, I felt more useful when pairing, and I was able to get more done.</p>
+
+<!-- more -->
+
+
+<p>Teams have been broken down into smaller team focused on specific functions within the company, and I completed the Kissmetrics and Trunkboards v2 projects.</p>
+
+<p>To be honest, the last eight weeks are a big blur. It’s been very intense, a race to the finish to accomplish as much as I could during this apprenticeship. I wish I had blogged more but it was not a priority: If I were to graduate from my apprenticeship and become an engineer, I would no longer have the luxury of being an apprentice, i.e. spending so much time learning. So I made the most of the time I had left.</p>
+
+<p>I had my final review at the end of last month. Everyone from the tech team was there, plus a few people from the product team. I did two presentations: one just for the tech team, highlighting everything that I learned, and a second presentation for the larger group talking about the apprenticeship itself, how I got there and what I got out of it, followed by questions and answers.</p>
+
+<p>It was awesome to list the stuff that I had learned, and also see how much more there was for me to learn. I appreciated getting feedback on my performance and hearing what people thought I should focus on next.</p>
+
+<p>I left the room to let the group discuss what was now my application for an engineering position. I would be leaving for a pre-planned trip to Europe just two days later and would be gone for almost three weeks, so I was eager to hear the outcome of the apprenticeship before leaving. The day after the final review, before a happy hour event with the sales team, I got the great news from Mike Cruz that Trunk Club was offering me a position as a Software Engineer. I’m very happy and excited to have accepted that offer today.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Trunk Club Apprenticeship: week 18]]></title>
+    <link href="http://techblog.trunkclub.com/trunk-club-apprenticeship-week-18/"/>
+    <updated>2012-06-29T00:00:00+00:00</updated>
+    <id>http://techblog.trunkclub.com/trunk-club-apprenticeship-week-18</id>
+    <content type="html"><![CDATA[<p>Now that felt great: I worked on a project that was very similar to last week’s Kissmetrics project, except this time it took me two days to finish it instead of five! I’m now completing projects regularly and I have code to commit to the release every week. My contribution level is definitely increasing on a weekly basis.</p>
+
+<!-- more -->
+
+
+<p>Part of it is understanding our code base better, but part of it is also having a much smoother workflow. I program, test, commit, present/test with stakeholders with much more ease now, which allows me to focus more on my code. Things are easier with the product team. I feel like I’m more helpful and pro-active with them, and we get more done.</p>
+
+<p>I’m also able to quickly build upon what I have just learned, needing less time to digest. Tuesday night, at the end of the day, I received a request for a feature and was able to get it done just a few hours later. A few weeks ago such time constraints would guarantee not finishing on time, but this one was doable thanks to the projects that I worked on the last few weeks. I feel like I can take on a much wider variety of projects now. I probably just need more time to complete them than others (which I don’t mind taking), and even that is slowly getting better. It’s all about adding more value.</p>
+
+<p>I finished reading Seven Languages in Seven Weeks. I’ll post my notes on Seven Languages shortly, but the short take on it is this: Great book, helped me understand how other languages (non-OO, functional etc.) function, and what the best use for some of them is. Sometimes it was a bit above my level, but never enough not be understandable and useful. I’m going to pick one of the languages to play with it (Scala or Haskell?) and I’ll probably read the book again in a few months. This week I went back to a non-coding book and started reading <a href="http://amzn.com/1934356581">Agile Samurai</a> by Jonathan Rasmusson.</p>
+
+<p>This weekend I will be finishing up preparing for my four month review on Monday. The last couple of months have been awesome, with an acceleration of my learning mid-way through, and I’m excited to present it to the team.</p>
+
+<p>Next week: Review, working in a smaller team, Kissmetrics and Trunkboards version 2.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Trunk Club Apprenticeship: week 17]]></title>
+    <link href="http://techblog.trunkclub.com/trunk-club-apprenticeship-week-17/"/>
+    <updated>2012-06-22T00:00:00+00:00</updated>
+    <id>http://techblog.trunkclub.com/trunk-club-apprenticeship-week-17</id>
+    <content type="html"><![CDATA[<p>This week I started and finished the Kissmetrics project that was assigned to me. Pairing with Mike on Monday helped get me started and after that it was just a matter of going through the stories that were assigned to me one by one. We’re also improving our testing methodology and testing earlier in the week, testing with the product manager both locally as soon as possible and on staging after the weekly code freeze. Of course some things were not working while testing. Sometimes the logic hadn’t been thought through, and sometimes my environment wasn’t set up properly for testing. And throughout the week we were getting feedback from end-users that meant changes in the specifications. But I am happy that even with all these bumps on the road I managed to deliver the finished project on time for the release.</p>
+
+<!-- more -->
+
+
+<p>I’m also getting more comfortable with releasing, using apache, figuring out log files and understanding errors. While I may never become a dev-ops, I do want to master that area of expertise so that I can help with it whenever necessary. I’m using heroku for the moment for my side/learning-project but as soon as the mvp is live I want to move it to AWS or Linode and learn how to deploy and maintain applications on a VPS.</p>
+
+<p>Finally, I’m getting ready for my four-month review, coming up soon on July 2nd. I’ll be at the office this weekend working on the presentation itself and the web application that I will be demoing. I’m nervous but also excited because while the last two months have been very busy, I feel like I didn’t get enough apprenticeship tasks done. At the same time, I really turned a corner: things make sense, learning is easier and faster, and I’m so much more productive. I’ll continue working on making a great presentation next week.</p>
+
+<p>Also next week: Implementing Iron workers on Trunkboard, using Redis better for performance, fixing sales report bugs before the end of the month.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Trunk Club Apprenticeship: week 16]]></title>
+    <link href="http://techblog.trunkclub.com/trunk-club-apprenticeship-week-16/"/>
+    <updated>2012-06-15T00:00:00+00:00</updated>
+    <id>http://techblog.trunkclub.com/trunk-club-apprenticeship-week-16</id>
+    <content type="html"><![CDATA[<p>I started working on the Kissmetrics and Leviathan integration this week. It’s the first time that I have worked with our www application. Browsing the code and finding what I’m looking for takes a little bit of help but it’s definitely much less cryptic than I thought. Familiarity with our business and our code base on the API side is definitely helping.</p>
+
+<!-- more -->
+
+
+<p>I also started using Resque for queuing background jobs. That’s another thing that feels really straight-forward now and was difficult to implement a few months ago. We’re sending the data to Kissmetrics asynchronously to reduce the load. This is a good use case for asynchronous jobs and we’ll be looking into more jobs that could use this method and speed up our application.</p>
+
+<p>I finished reading the Sinatra book that I picked up a few weeks ago. I put it down for too long after moving away from the Sinatra app that I was working on but finally finished it. I started reading the next book on my list: <a href="http://amzn.com/193435659X">Seven Languages in Seven Weeks</a> by Bruce Tate. Going through the Ruby chapter was quick, a nice refresher. I’m moving on to IO this weekend.</p>
+
+<p>Next week: finishing the Kissmetrics project, improving Trunkboards and getting ready for my four month review.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Trunk Club Apprenticeship: week 15]]></title>
+    <link href="http://techblog.trunkclub.com/trunk-club-apprenticeship-week-15/"/>
+    <updated>2012-06-08T00:00:00+00:00</updated>
+    <id>http://techblog.trunkclub.com/trunk-club-apprenticeship-week-15</id>
+    <content type="html"><![CDATA[<p>This week we had our second hack day: different teams, different projects, same goal to build something in a day that could benefit the business. This time we had several themes to pick from, including Salesforce integration, social graph and inventory management. Our team built a notification system for stylists to be notified when an item that is not in stock becomes available. We also built a neat tool to search items in our inventory while building a trunk. The notification feature will soon make its way to production, which would make it the first feature coming out of hack day to make its way to our main application. The other team built an iPad app that lets you vote for your most stylish friend after pulling them from Facebook, a fun game that could help us with lead sourcing. The rest of the company will get to pick the winner next week during our demo time.</p>
+
+<!-- more -->
+
+
+<p>I got to play with Redis for caching. I am trying to improve the performance of Trunkboards. All of these queries add up and it took too long for the page to load in my opinion (around 20 seconds). So I started caching the data using Redis for the queries that took the longest to respond, running them if there is no data in Redis and expiring them after an hour. It’s much better, with the page load time down to around 5 seconds. But I think it can be improved more by running the queries through a background job at regular intervals and have Trunkboards only query Redis. For now, I’m waiting to get feedback from users before working on the next features of Trunkboards.</p>
+
+<p>I got a new project: the Kissmetrics integration. As part of our push for data we will start using Kissmetrics to track our sales funnel. This requires me to record a variety of events throughout our applications. I’m very interested in this project because it will force me to understand our front-end application and how it interacts with our API.</p>
+
+<p>Next week: Kissmetrics, Resque/Redis for queuing, finshing a book and starting a new one.</p>
+]]></content>
+  </entry>
+  
+</feed>
